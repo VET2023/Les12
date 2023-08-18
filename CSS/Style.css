@@ -1,0 +1,94 @@
+table{
+border: 1px black;
+table-layout: fixed;
+width: 450px;
+height: auto;
+text-align: center;
+}
+
+header{
+background-color: lightpink;
+text-align: center;
+width: 450px;
+height: 75px;
+}
+footer{
+background-color: grey;
+width: 450px;
+height: 20px;
+}
+
+h1{
+color: white;
+}
+h2{
+color: grey;
+}
+
+div{
+width: 450px;
+height: auto;
+text-align: center;
+}
+
+img{
+width: 100px;
+height: auto;
+}
+
+#W1{
+background-color: #7D0094;
+color: white;
+}
+#W2{
+background-color: #E8AEDD;
+color: #000094;
+}
+#W3{
+background-color: #CC5AE0;
+color: greenyellow;
+}
+#W4{
+background-color: #9c3667;
+color: burlywood;
+}
+#W5{
+background-color: #5c5c5c;
+color: yellow;
+}
+#W6{
+background-color: #873B94;
+color: turquoise;
+}
+#W7{
+background-color: #a3345d;
+color: springgreen;
+}
+#W8{
+background-color: #F04d88;
+color: royalblue;
+}
+#A1{
+background-color: #e8519a;
+}
+#A2{
+background-color: #a27494;
+}
+#A3{
+background-color: #f0addc;
+}
+#A4{
+background-color: #9c9c9c;
+}
+#A5{
+background-color: #AC7494;
+}
+#A6{
+background-color: #F7A6D4;
+}
+#A7{
+background-color: #AB2e4B;
+}
+#A8{
+background-color: #F7436D;
+}
